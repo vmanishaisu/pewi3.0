@@ -1,5 +1,6 @@
 //from http://threejs.org/examples/#canvas_geometry_birds
 
+
 //Bird object used in the creation of a flock of birds in the three.js scene
 var Bird = function () {
 	var scope = this;
